@@ -1,0 +1,2 @@
+# moneyball
+Análise Quantitativa
